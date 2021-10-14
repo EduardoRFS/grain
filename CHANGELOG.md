@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.4.4](https://www.github.com/grain-lang/grain/compare/grain-v0.4.3...grain-v0.4.4) (2021-10-14)
+
+
+### Bug Fixes
+
+* **linking:** Close file after reading ([c404fcf](https://www.github.com/grain-lang/grain/commit/c404fcf30bceab2911d3ab0c99f284791c799ca0))
+* Properly open & close files ([#985](https://www.github.com/grain-lang/grain/issues/985)) ([c404fcf](https://www.github.com/grain-lang/grain/commit/c404fcf30bceab2911d3ab0c99f284791c799ca0))
+
 ### [0.4.3](https://www.github.com/grain-lang/grain/compare/grain-v0.4.2...grain-v0.4.3) (2021-10-11)
 
 
